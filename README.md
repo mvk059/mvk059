@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**MVK059/MVK059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, Manpreet here 👋
 
 - 🔭 I’m currently working as an Android Developer
 - 🌱 I’m currently learning Dagger Hilt
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: manpreetkunnath@gmail.com
 - 😄 Pronouns: Who. Me?
 - ⚡ Fun fact: I don't have a personal laptop
--->
