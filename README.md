@@ -7,4 +7,3 @@
 - 💬 Ask me about 🏀 Basketball
 - 📫 How to reach me: manpreetkunnath@gmail.com
 - 😄 Pronouns: Who. Me?
-- ⚡ Fun fact: I don't have a personal laptop
