@@ -5,4 +5,4 @@
 - 📫 How to reach me: manpreetkunnath@gmail.com
 
 Currently building
-- A [Meme Editor](https://github.com/mvk059/ComposableMemes) written in Compose Multiplatform targetting android, ios & web (WASM)
+- A [Meme Editor](https://github.com/mvk059/ComposableMemes) built using Compose Multiplatform targetting android, ios & web (WASM)
